@@ -1,0 +1,24 @@
+{
+  "name": "maxmind-legacy",
+  "version": "1.0.0",
+  "description": "Simple maxmind wrapper for legacy files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maxmind"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qwantix/maxmind-legacy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qwantix/maxmind-legacy/issues"
+  },
+  "author": "Brice Dauzats",
+  "license": "MIT",
+  "dependencies": {
+    "maxmind": "0.6.0"
+  }
+}
